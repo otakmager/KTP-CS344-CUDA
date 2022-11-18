@@ -1,3 +1,7 @@
 This is not my original code, but it's combine from:
 https://github.com/raoqiyu/CS344-Problem-Sets
 https://github.com/depctg/udacity-cs344-colab
+https://github.com/mkf450/udacity-cs344-colab
+
+To run CUDA on colab:
+https://github.com/mkf450/nvcc4jupyter.git
